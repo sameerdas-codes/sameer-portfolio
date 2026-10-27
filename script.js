@@ -48,7 +48,7 @@ const typingText = document.getElementById("typingText");
 
 const roles = [
   "Web Developer",
-  "Mern Stack Developer",
+  "Full Stack Developer",
   "Python Backend Developer",
   "Problem Solver"
 ];
